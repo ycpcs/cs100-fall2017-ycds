@@ -12,8 +12,8 @@ This page links to lab activities.
 > [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)                                    | **Sept 18** |
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Sept 21** |
 > [Lab Activity 4: Layer Cake Computation](CPADS_Lab4.pdf)                               | **Sept 28** |
-> [Exam 1 Review: Diamond](CPADS_Exam1Review.pdf) <br \> [Solution: Strategy](CPADS_Exam1Review_Strategy.pdf) <br \> [Solution: Code](CPADS_Exam1Review_Code.py)                                       | **Oct 2**   |
-> [Lab Activity 5: Pinwheel Functions](CPADS_Lab5.pdf) <br \> [pinwheelFunctions.py](src/pinwheelFunctions.py)                               | **Oct 12** |
+> [Exam 1 Review: Diamond](CPADS_Exam1Review.pdf) <br /> [Solution: Strategy](CPADS_Exam1Review_Strategy.pdf) <br /> [Solution: Code](CPADS_Exam1Review_Code.py)                                       | **Oct 2**   |
+> [Lab Activity 5: Pinwheel Functions](CPADS_Lab5.pdf) <br /> [pinwheelFunctions.py](src/pinwheelFunctions.py)                               | **Oct 12** |
 
 
 <!--
