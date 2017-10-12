@@ -30,7 +30,7 @@ def drawSquareFromCenter(turtle,x):
 def moveToCenterRightTurn():
 
 # TODO: Diagonal movement function
-def moveToCenterDiagonal();
+def moveToCenterDiagonal():
 
 # TODO: Complete program to call functions
 #       to draw pinwheel
