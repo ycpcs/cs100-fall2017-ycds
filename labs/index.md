@@ -16,6 +16,7 @@ This page links to lab activities.
 > [Lab Activity 5: Pinwheel Functions](CPADS_Lab5.pdf) <br /> [pinwheelFunctions.py](src/pinwheelFunctions.py)                               | **Oct 24** |
 > [Lab Activity 6: Loop Exercises](CPADS_Lab6.pdf)                                       | **Oct 26** |
 > [Lab Activity 7: Pyramid Strategy](CPADS_Lab7.pdf)                                     | **Oct 26** |
+> [Lab Activity 8: Decisions](CPADS_Lab8.pdf)                                            | **Nov 7**  |
 
 
 <!--
