@@ -13,6 +13,8 @@ This page links to assignments.
 > [Assignment 2: Triangles (Functions and Loops)](CPADS_Assign2.pdf) <br /> [triangles.py](src/triangles.py)                    | **Nov 2**  |
 > [Assignment 3: Turtle Game (Decisions and While Loops)](CPADS_Assign3.pdf) <br /> [turtlegame.py](src/turtlegame.py)          | **Nov 14**  |
 > [Assignment 3: Turtle Game (Strategy Solutions)](CPADS_Assign3-strategies-solution.pdf) <br /> [Programming Solution Python file](src/turtlegame-solution.py)                                                 |             |
+> [Final Project Proposal](CPADS_FinalProject.pdf)                                       | **Nov 21** |
+> [Turtle Game Enhancements](CPADS_TurtleGameProject.pdf)                                | **Nov 21** |
 
 
 <!--
